@@ -1,0 +1,40 @@
+
+#image
+{
+ margin: 10px;
+ filter: blur(2.5px);
+}
+  #div1
+  {
+  	text-align: center;
+  }
+
+ul { display: inline-block; text-align: left; }
+#cat
+{
+	text-align: center;
+	color: #d4e157;
+
+}
+#links
+{
+	color: #37474f;
+}
+#welcome
+{
+	color: black;
+	text-align: center;
+	text-shadow: 0.2px;
+	background-size: 2px;
+	background-color: #40BFBF;
+	border-radius: 70px;
+
+}
+#overlay_text{
+	position: relative;
+	bottom: 500px;
+	background-color:
+#eeeeee;
+	text-align: center;
+	padding : 5px;
+}
